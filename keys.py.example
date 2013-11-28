@@ -1,0 +1,5 @@
+# Put your keys into this file and rename the file to "keys.py"
+key_consumer_key=''
+key_consumer_secret=''
+key_access_token_key=''
+key_access_token_secret=''
